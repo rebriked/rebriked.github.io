@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:0 CUID="141" tvg-name="https://t.me/IP4ON قناتنا على التلجرام " tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL",https://t.me/IP4ON قناتنا على التلجرام 
 http://173.249.36.238:25461/876667373/freeiptvgen/19957450.ts
 #EXTINF:-1 tvg-id="" tvg-name="IP4ON SPORTS News" tvg-logo="http://173.249.36.238:25461/images/d7e47dfa2fef471cce436e6c782d4806.png" group-title="IP4ON SPORTS  [FREE SERVER]",IP4ON SPORTS News
